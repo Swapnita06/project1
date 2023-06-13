@@ -1,0 +1,60 @@
+body{
+    background-color:black;
+    background-size: 100%;
+    
+}
+
+h1{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+font-size: 350%;
+text-decoration: underline double whitesmoke;
+color: bisque;
+}
+.pic1{
+    height: 400px; width: 400px;
+    float: left;
+}
+.one>p{
+    color: aquamarine;
+    font-size: 25px;
+}
+.more{
+    font-style: italic;
+    color:lightcoral;
+}
+.about-button{
+    color:salmon;
+    border-radius: 10%;
+}
+.two>p{
+    color: salmon;
+    font-size: 150%;
+}
+/*.line2{
+    color:salmon;
+    font-size: 30px;
+}
+.photos{
+    display: inline-flex;
+    height: 75%; width: 50%;*/
+.photo{
+    height: 100px; width: 200px;
+    background-color:darkkhaki;
+    border-radius: 5%;
+}
+.p2{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 200%;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
+.contact-button{
+    height: 20px;
+    width: 50px%;
+}
+
+
